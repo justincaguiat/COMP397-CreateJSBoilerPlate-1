@@ -67,6 +67,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\images\button-small.png" />
+    <Content Include="assets\images\button.png" />
     <Content Include="css\game.css" />
     <Content Include="index.html" />
     <Content Include="Scripts\lib\easeljs-0.8.0.min.js" />
@@ -81,7 +83,6 @@
   <ItemGroup>
     <Folder Include="assets\audio\" />
     <Folder Include="assets\fonts\" />
-    <Folder Include="assets\images\" />
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="Scripts\game.ts" />
